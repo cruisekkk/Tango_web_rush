@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+
+.container {
+  margin: 20px;
+  margin-top: 100px;
+}
+
+.platform, .version {
+  font-size: larger;
+}
+
+.textarea {
+  width: 380px;
+  height: 500px;
+}
+
+.textarea.ant-input{
+  max-width: 400px;
+  height: 300px;
+}
+
